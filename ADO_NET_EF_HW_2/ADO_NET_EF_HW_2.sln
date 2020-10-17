@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.30406.217
+VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO_NET_EF_HW_2", "ADO_NET_EF_HW_2\ADO_NET_EF_HW_2\ADO_NET_EF_HW_2.csproj", "{E57F266B-AF1F-47ED-8C35-5C4A4195C35F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp_EF_HW_2", "WindowsFormsApp_EF_HW_2\WindowsFormsApp_EF_HW_2.csproj", "{E57F266B-AF1F-47ED-8C35-5C4A4195C35F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {02CAE28B-77E7-44AA-982A-C161CE9A6AE0}
+		SolutionGuid = {05A2D96E-D5B5-4F16-90CF-DD77D0EE162D}
 	EndGlobalSection
 EndGlobal
