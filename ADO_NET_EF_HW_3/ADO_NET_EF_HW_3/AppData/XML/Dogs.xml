@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dogs>
+  <dog id="1">
+    <name>Шарик</name>
+    <age>5</age>
+  </dog>
+  <dog id="3">
+    <name>Гель</name>
+    <age>9</age>
+  </dog>
+  <dog id="4">
+    <name>Шампунь</name>
+    <age>11</age>
+  </dog>
+  <dog id="5">
+    <name>1</name>
+    <age>1</age>
+  </dog>
+</dogs>

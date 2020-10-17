@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cats>
+  <cat id="1">
+    <name>Барсик</name>
+    <weight>4,1</weight>
+  </cat>
+  <cat id="2">
+    <name>Вася</name>
+    <weight>3</weight>
+  </cat>
+  <cat id="3">
+    <name>Жора</name>
+    <weight>8</weight>
+  </cat>
+  <cat id="4">
+    <name>Пушка</name>
+    <weight>12,9</weight>
+  </cat>
+  <cat id="7">
+    <name>3</name>
+    <weight>3</weight>
+  </cat>
+</cats>
